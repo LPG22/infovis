@@ -1,1 +1,10 @@
-boca juniors
+Protovis
+scallable vector graphics
+small multiples
+horizon graphs
+stem-and-leaf plots
+parallel coordinates
+flow maps
+Adjacency diagrams
+sunburst layout
+squarified treemaps
